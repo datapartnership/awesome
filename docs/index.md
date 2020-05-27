@@ -1,1 +1,1 @@
-/Users/g4brielvs/Dropbox/Projects/datapartnership/awesome-ddp/README.md
+../index.md
