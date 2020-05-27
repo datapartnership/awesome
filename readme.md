@@ -3,7 +3,7 @@
 > A curated list of the Development Data Partnership data good and derivative works
 
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/datapartnership/datapartnership.org/master/static/logo.png?token=AA65TKD3AYYSSDLQG6QCIGC6YW7PC">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/datapartnership/welcome/master/images/logo.png">
 </p>
 
 # About
@@ -16,13 +16,16 @@ The [Development Data Partnership](https://datapartnership.org/) is a partnershi
 
 ## COVID-19
 
-#### [COVID-19](https://github.com/datapartnership/covid19) by [@brunosan](https://github.com/brunosan) and [@MrMaksimize](https://github.com/MrMaksimize)
+#### [COVID-19](https://github.com/datapartnership/covid19) 
+- by [@brunosan](https://github.com/brunosan) and [@MrMaksimize](https://github.com/MrMaksimize)
 > Understanding Mobility during Social Distancing with Private Sector Data
 
-#### [COVID-19 pandemic in Colorado](https://github.com/ryanlayer/COvid19) by [@ryanlayer](https://github.com/ryanlayer)
+#### [COVID-19 pandemic in Colorado](https://github.com/ryanlayer/COvid19) 
+by [@ryanlayer](https://github.com/ryanlayer)
 > Providing social distancing situational awareness during the COVID-19 pandemic in Colorado
 
-#### [mobility: an R package for modeling human mobility patterns](https://github.com/COVID-19-Mobility-Data-Network/mobility) by [@gilesjohnr](https://github.com/gilesjohnr) and Amy Wesolowski
+#### [mobility: an R package for modeling human mobility patterns](https://github.com/COVID-19-Mobility-Data-Network/mobility)
+by [@gilesjohnr](https://github.com/gilesjohnr) and Amy Wesolowski
 > This GitHub repository contains source code to build the mobility R package which provides tools for analyzing human mobility data, including functions for parsing travel data, fitting mobility models using Bayesian inference, and simulating mobility patterns. This package is currently in development and maintained by John Giles (@gilesjohnr) and Amy Wesolowski.
 
 ## License
