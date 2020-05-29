@@ -17,7 +17,7 @@ The [Development Data Partnership](https://datapartnership.org/) is a partnershi
 ## COVID-19
 
 #### [COVID-19](https://github.com/datapartnership/covid19) 
-- by [@brunosan](https://github.com/brunosan) and [@MrMaksimize](https://github.com/MrMaksimize)
+by [@brunosan](https://github.com/brunosan) and [@MrMaksimize](https://github.com/MrMaksimize)
 > Understanding Mobility during Social Distancing with Private Sector Data
 
 #### [COVID-19 pandemic in Colorado](https://github.com/ryanlayer/COvid19) 
