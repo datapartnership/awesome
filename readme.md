@@ -28,6 +28,10 @@ by [@ryanlayer](https://github.com/ryanlayer)
 by [@gilesjohnr](https://github.com/gilesjohnr) and Amy Wesolowski
 > This GitHub repository contains source code to build the mobility R package which provides tools for analyzing human mobility data, including functions for parsing travel data, fitting mobility models using Bayesian inference, and simulating mobility patterns. This package is currently in development and maintained by John Giles (@gilesjohnr) and Amy Wesolowski.
 
+#### [Risk Dashboard development coordination](https://github.com/worldbank/HNP)
+by [@worldbank](https://github.com/worldbank)
+> This repo coordinates and documents Health, DECAT, and consulting firms support to COVID fact track response projects. It consolidates and aligns contributions from a number of internal and external contributors.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
